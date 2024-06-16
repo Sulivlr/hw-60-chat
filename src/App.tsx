@@ -1,7 +1,9 @@
+import Message from './components/messages/Message';
+
 const App = () => {
     return (
         <div>
-            Hello World!
+            < Message />
         </div>
     );
 };
