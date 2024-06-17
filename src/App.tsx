@@ -3,7 +3,7 @@ import Message from './components/messages/Message';
 const App = () => {
     return (
         <div>
-            < Message />
+            <Message />
         </div>
     );
 };
